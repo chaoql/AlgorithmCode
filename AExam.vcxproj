@@ -137,6 +137,7 @@
     <ClCompile Include="Nearest point-to-point.cpp" />
     <ClCompile Include="nqueens.cpp" />
     <ClCompile Include="quick sort.cpp" />
+    <ClCompile Include="Romeo and Juliet%27s Labyrinth.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AExam.h" />

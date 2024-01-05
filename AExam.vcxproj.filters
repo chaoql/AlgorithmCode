@@ -57,6 +57,9 @@
     <ClCompile Include="chessBoard.cpp">
       <Filter>源文件\divide and conquer</Filter>
     </ClCompile>
+    <ClCompile Include="Romeo and Juliet%27s Labyrinth.cpp">
+      <Filter>源文件\Backtracking</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AExam.h">

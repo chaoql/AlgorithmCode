@@ -11,4 +11,5 @@ void beautifulPrint();
 void max_min();
 void nqueens();
 void chessBoard();
+void RandJ();
 #endif // !AEXAM_H
